@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xialibin.top/"/>
-  <updated>2017-04-08T14:36:33.695Z</updated>
+  <updated>2017-04-08T14:38:59.644Z</updated>
   <id>http://www.xialibin.top/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://www.xialibin.top/2017/04/08/hello-world/"/>
     <id>http://www.xialibin.top/2017/04/08/hello-world/</id>
     <published>2017-04-08T02:03:14.629Z</published>
-    <updated>2017-04-08T14:36:33.695Z</updated>
+    <updated>2017-04-08T14:38:59.644Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="写在前面的话"><a href="#写在前面的话" class="headerlink" title="写在前面的话"></a>写在前面的话</h1><blockquote>
+    <content type="html"><![CDATA[<blockquote>
 <p><i class="icon-book">  Sadly, Fate had made me good, not great.<br>　　　　　　　　　　　　　　　　　　–Phil Knight</i></p>
 </blockquote>
 <hr>
@@ -41,8 +41,10 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;写在前面的话&quot;&gt;&lt;a href=&quot;#写在前面的话&quot; class=&quot;headerlink&quot; title=&quot;写在前面的话&quot;&gt;&lt;/a&gt;写在前面的话&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;i class=&quot;icon-book&quot;&gt;  Sadly, Fate had ma
+      &lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;icon-book&quot;&gt;  Sadly, Fate had made me good, not great.&lt;br&gt;　　　　　　　　　　　　　　　　　　–Phil Knight&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
     
     </summary>
     
