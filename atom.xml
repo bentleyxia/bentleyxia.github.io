@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xialibin.top/"/>
-  <updated>2017-04-08T07:21:40.674Z</updated>
+  <updated>2017-04-08T07:21:56.930Z</updated>
   <id>http://www.xialibin.top/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.xialibin.top/2017/04/08/hello-world/"/>
     <id>http://www.xialibin.top/2017/04/08/hello-world/</id>
     <published>2017-04-08T02:03:14.629Z</published>
-    <updated>2017-04-08T07:21:40.674Z</updated>
+    <updated>2017-04-08T07:21:56.930Z</updated>
     
     <summary type="html">
     
@@ -29,9 +29,7 @@
       <category term="Dairy" scheme="http://www.xialibin.top/categories/Dairy/"/>
     
     
-      <category term="PS3" scheme="http://www.xialibin.top/tags/PS3/"/>
-    
-      <category term="Games" scheme="http://www.xialibin.top/tags/Games/"/>
+      <category term="Life" scheme="http://www.xialibin.top/tags/Life/"/>
     
   </entry>
   
