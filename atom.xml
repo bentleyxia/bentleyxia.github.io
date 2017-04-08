@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xia&#39;s Notes</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.xialibin.top/"/>
+  <updated>2017-04-08T03:29:21.629Z</updated>
+  <id>http://www.xialibin.top/</id>
+  
+  <author>
+    <name>BentleyXia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>写在前面的话</title>
+    <link href="http://www.xialibin.top/2017/04/08/hello-world/"/>
+    <id>http://www.xialibin.top/2017/04/08/hello-world/</id>
+    <published>2017-04-08T02:03:14.629Z</published>
+    <updated>2017-04-08T03:29:21.629Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Dairy" scheme="http://www.xialibin.top/categories/Dairy/"/>
+    
+    
+  </entry>
+  
+</feed>
