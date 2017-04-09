@@ -60,10 +60,11 @@
     <link href="http://www.xialibin.top/2017/04/08/hello-world/"/>
     <id>http://www.xialibin.top/2017/04/08/hello-world/</id>
     <published>2017-04-08T02:03:14.629Z</published>
-    <updated>2017-04-09T03:44:02.078Z</updated>
+    <updated>2017-04-09T08:05:45.303Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Preface"><a href="#Preface" class="headerlink" title="Preface"></a>Preface</h3><blockquote>
-<p><i class="icon-book">  Sadly, Fate had made me good, not great.  –Phil Knight</i></p>
+<center><i class="icon-book">  Sadly, Fate had made me good, not great.  –Phil Knight</i></center>
+
 </blockquote>
 <a id="more"></a>
 <p>上面这段话来自最近在看一本耐克创始人Phill Knight的自传 <a href="https://www.gatesnotes.com/Books/Shoe-Dog" target="_blank" rel="external"><strong><em>Shoe Dog</em></strong></a>，是在比尔盖茨的 <a href="https://www.gatesnotes.com" target="_blank" rel="external"><strong><em>GatesNotes</em></strong></a> 书单中淘得。</p>
@@ -81,7 +82,8 @@
     <summary type="html">
     
       &lt;h3 id=&quot;Preface&quot;&gt;&lt;a href=&quot;#Preface&quot; class=&quot;headerlink&quot; title=&quot;Preface&quot;&gt;&lt;/a&gt;Preface&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;i class=&quot;icon-book&quot;&gt;  Sadly, Fate had made me good, not great.  –Phil Knight&lt;/i&gt;&lt;/p&gt;
+&lt;center&gt;&lt;i class=&quot;icon-book&quot;&gt;  Sadly, Fate had made me good, not great.  –Phil Knight&lt;/i&gt;&lt;/center&gt;
+
 &lt;/blockquote&gt;
     
     </summary>
