@@ -3,13 +3,21 @@
   
     
     <entry>
+      <title><![CDATA[post]]></title>
+      <url>/2017/04/09/post/</url>
+      <content type="html"></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[写在前面的话]]></title>
       <url>/2017/04/08/hello-world/</url>
-      <content type="html"><![CDATA[<blockquote>
+      <content type="html"><![CDATA[<h3 id="Preface"><a href="#Preface" class="headerlink" title="Preface"></a>Preface</h3><blockquote>
 <p><i class="icon-book">  Sadly, Fate had made me good, not great.  –Phil Knight</i></p>
 </blockquote>
 <a id="more"></a>
-<p>上面这段话来自最近在看一本耐克创始人Phill Knight的自传 <a href="https://www.gatesnotes.com/Books/Shoe-Dog" target="_blank" rel="external"><strong><em>Shoe Dog</em></strong></a>，是在比尔盖茨的 <a href="https://www.gatesnotes.com" target="_blank" rel="external"><strong><em>GatesNotes</em></strong></a> 的书单中淘得。</p>
+<p>上面这段话来自最近在看一本耐克创始人Phill Knight的自传 <a href="https://www.gatesnotes.com/Books/Shoe-Dog" target="_blank" rel="external"><strong><em>Shoe Dog</em></strong></a>，是在比尔盖茨的 <a href="https://www.gatesnotes.com" target="_blank" rel="external"><strong><em>GatesNotes</em></strong></a> 书单中淘得。</p>
 <h3 id="Blog"><a href="#Blog" class="headerlink" title="Blog"></a>Blog</h3><ul>
 <li>我为什么要写博客?</li>
 </ul>
